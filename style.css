@@ -1,0 +1,90 @@
+.Top{
+    text-align: center;
+    background-color: #E7F6F2;
+    padding: 20px;
+    
+}
+#name{
+    font-family: 'Dancing Script', cursive;
+    position: relative;
+    top: 70px;
+    font-size: 90px;
+    color: #66BFBF;
+    line-height: 2;
+}
+.h2{
+    font-weight: normal;
+    
+}
+.profile{
+    margin: 100px auto 100px auto;
+    
+}
+.skills{
+    margin:100px auto 100px auto ;
+}
+#job{
+    font-family: 'Roboto Condensed', sans-serif;
+    position: relative;
+    top: 60px;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+.man-clear{
+    clear: left;
+}
+.leftal{
+    text-align: left;
+    margin: 20px;
+}
+.headcol{
+    color: #11999E;
+    
+}
+.middle-container{
+    text-align: center;
+    padding: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+    width: 50%;
+    margin: auto;
+}
+.image-red{
+    margin: 20px;
+    position: relative;
+    bottom: 25px;
+}
+.bottom-container{
+    text-align: center;
+}
+
+body{
+    margin: 0%;
+}
+#cloud{
+    position: absolute;
+    right: 300px;
+    top: 10%;
+}
+#cloud1{
+    position: absolute;
+    left: 20%;
+    bottom: 40%;
+}
+.bottom-container{
+    background-color: aquamarine;
+    height: 100px 0 0 0;
+    padding:50px;
+}
+.btn{
+    color: white;
+    background-color: aqua;
+    border-radius: 7px;
+    font-size: 20px;
+}
+.footer-link{
+    color: goldenrod;
+    text-decoration: none;
+    padding: 15px;
+    font-family:'Roboto Condensed',sans-serif ;
+    font-size: 20px;
+}
